@@ -1,4 +1,5 @@
 # ComposeBasics
-Jetpack Compose code lab 1
+Jetpack Compose Basics Google code lab 
 
-## Code Lab: https://developer.android.com/codelabs/jetpack-compose-basics
+## Code Lab:
+https://developer.android.com/codelabs/jetpack-compose-basics
