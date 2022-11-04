@@ -5,14 +5,14 @@ Jetpack Compose Basics Google code lab
 https://developer.android.com/codelabs/jetpack-compose-basics
 
 ### Features:
-Columns
-Rows
-State Hoisting
-LazyColumn
-Card
-Animation
-Persisting State
-Style and Theme
+ - Columns
+ - Rows
+ - State Hoisting
+ - LazyColumn
+ - Card
+ - Animation
+ - Persisting State
+ - Style and Theme
 
 ### Images:
 
