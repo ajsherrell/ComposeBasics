@@ -16,8 +16,6 @@ https://developer.android.com/codelabs/jetpack-compose-basics
 
 ### Images:
 
-<img src="images/onboardingScreen.png" width="300">  <img src="images/LazyColumn.png" width="300">
-
  - ![onboardingScreen](https://user-images.githubusercontent.com/16841620/200006765-a6c2e506-4d95-43a6-aef9-ff430aaa339c.png)
  
  - ![LazyColumn](https://user-images.githubusercontent.com/16841620/200006917-6f4a0c31-28df-4468-bd07-05f2513a7f82.png)
